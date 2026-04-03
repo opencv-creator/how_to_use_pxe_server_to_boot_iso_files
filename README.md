@@ -6,6 +6,10 @@ AOMEI backupper may fail if u close the entire hard drive while Operating system
 backupper is running. To clone entire hard drive which doesnt have linux (only winodws operating system)should be present, this compete disk cloning has to be done by booting computer
 with AOMEI rescue usb ,this rescure usb drive can be created using AOMEI backupper software.
 
+for AOMEI pix boot and cloning and hard drive image restiration u can follow this youtube video, AOMEI pxe iso is present in this project repository and also in the below youtube link.
+
+https://www.youtube.com/watch?v=YetBzzYwIcQ
+
 Maacrium Reflect Technician plus can only deploy cloned image to other computers in LAN using rescue usb pendrive creatd using Macrium Reflect.
 
 To make Macrium Reflect rescute media to work in LAN as PXE boot then u have to use AOMEI pxe server present in this project repository and use DHCP option present in 
