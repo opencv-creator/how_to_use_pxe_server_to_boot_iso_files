@@ -30,7 +30,12 @@ if u dont have have router then follow this procedure where u should create stat
 https://www.youtube.com/watch?v=-gSNOoWoya4&t=120s
 
 link for Tiny PXE server, if u have Router then ProxyDHCP,BINL and HTTP options have to be selected and dont provide static ip address to computer.
-https://labalec.fr/erwan/?page_id=958
+
+https://labalec.fr/erwan/?page_id=958   (Tiny Pxe server website)
+
+https://erwan.labalec.fr/tinypxeserver/pxesrv.zip (Tiny Pxe server download link) 
+
+https://www.youtube.com/watch?v=o8wOb6KdzoQ&t=50s
 
 Ventoy PXE server, DLC boot ,these softwares didnt work for me. If anyone wants to try it , they can check youtube tutorials
 
