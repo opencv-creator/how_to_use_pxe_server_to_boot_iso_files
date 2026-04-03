@@ -23,6 +23,6 @@ if u dont have have router then follow this procedure where u should create stat
 
 https://www.youtube.com/watch?v=-gSNOoWoya4&t=120s
 
-Ventoy PXE server, DLC boot and  Tiny PXE server these softwares didnt work for me. If anyone wants to try it , they can check youtube tutorials
+Ventoy PXE server, DLC boot and  Tiny PXE server ,these softwares didnt work for me. If anyone wants to try it , they can check youtube tutorials
 
 
