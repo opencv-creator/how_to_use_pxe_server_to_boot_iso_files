@@ -10,7 +10,9 @@ for AOMEI pix boot and cloning and hard drive image restiration u can follow thi
 
 https://www.youtube.com/watch?v=YetBzzYwIcQ
 
-Maacrium Reflect Technician plus can only deploy cloned image to other computers in LAN using rescue usb pendrive creatd using Macrium Reflect.
+only Maacrium Reflect Technician plus software version can only deploy cloned image to other computers in LAN using rescue usb pendrive creatd using Macrium Reflect.
+
+https://www.youtube.com/watch?v=I0IjbOyJqRA&t=95s
 
 To make Macrium Reflect rescute media to work in LAN as PXE boot then u have to use AOMEI pxe server present in this project repository and use DHCP option present in 
 AOMEI pxe server software if the router doesnt allow PXE boot.
