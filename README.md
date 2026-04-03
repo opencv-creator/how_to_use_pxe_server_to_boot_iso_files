@@ -42,6 +42,6 @@ DLC boot sofware also contains Tiny PXE server only
 https://drive.usercontent.google.com/download?id=1IgCT7OKMuDCCdhSUAmtDirlPeBaIisSS&export=download&authuser=0&confirm=t&uuid=ea78671f-fe55-4129-b653-0cedecb60d3b&at=AGN2oQ26cwJPvWgCwJTcrp3Tn4Ie%3A1774915194476
  
 
-Ventoy PXE server, ,these softwares didnt work for me. If anyone wants to try it , they can check youtube tutorials
+iVentoy PXE server, ,these softwares didnt work for me. If anyone wants to try it , they can check youtube tutorials
 
 
