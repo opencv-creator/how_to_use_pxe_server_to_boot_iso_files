@@ -31,9 +31,9 @@ https://www.youtube.com/watch?v=-gSNOoWoya4&t=120s
 
 link for Tiny PXE server, if u have Router then ProxyDHCP,BINL and HTTP options have to be selected and dont provide static ip address to computer.
 
-https://labalec.fr/erwan/?page_id=958   /t (Tiny Pxe server website)
+https://labalec.fr/erwan/?page_id=958  &emsp; &emsp; (Tiny Pxe server website)
 
-https://erwan.labalec.fr/tinypxeserver/pxesrv.zip /t (Tiny Pxe server download link) 
+https://erwan.labalec.fr/tinypxeserver/pxesrv.zip &emsp; &emsp; (Tiny Pxe server download link) 
 
 https://www.youtube.com/watch?v=o8wOb6KdzoQ&t=50s
 
