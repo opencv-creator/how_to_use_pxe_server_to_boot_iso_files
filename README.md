@@ -10,7 +10,7 @@ for AOMEI pix boot and cloning and hard drive image restiration u can follow thi
 
 https://www.youtube.com/watch?v=YetBzzYwIcQ
 
-only Maacrium Reflect Technician plus software version can only deploy cloned image to other computers in LAN using rescue usb pendrive creatd using Macrium Reflect.
+only Macrium Reflect Technician plus software version can only deploy cloned image to other computers in LAN using rescue usb pendrive creatd using Macrium Reflect.
 
 https://www.youtube.com/watch?v=I0IjbOyJqRA&t=95s
 
