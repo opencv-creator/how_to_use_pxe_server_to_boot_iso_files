@@ -17,6 +17,9 @@ https://www.youtube.com/watch?v=I0IjbOyJqRA&t=95s
 To make Macrium Reflect rescute media to work in LAN as PXE boot then u have to use AOMEI pxe server present in this project repository and use DHCP option present in 
 AOMEI pxe server software if the router doesnt allow PXE boot.
 
+
+******* Settings for all PXE servers (Screen shots) are present in this respoitory)
+
 alternatively u can use Serva PXE server to boot any Windows operating system iso or Macrium or Acronis or Aomei recovery boot PE.
 follow the exact file names which were used in the below videos,otherwise Serva pxe server will not work and while ISO is pxe booting using Serva software,
 dont use internet as it will fail the PXE boot (that is TFTP server) due to repeated timeouts caused in its communication.
@@ -31,9 +34,7 @@ https://www.youtube.com/watch?v=-gSNOoWoya4&t=120s
 
 link for Tiny PXE server, if u have Router then ProxyDHCP,BINL and HTTP options have to be selected and dont provide static ip address to computer.
 
-https://labalec.fr/erwan/?page_id=958  &emsp; &emsp; (Tiny Pxe server website)
-
-https://erwan.labalec.fr/tinypxeserver/pxesrv.zip &emsp; &emsp; (Tiny Pxe server download link) 
+https://erwan.labalec.fr/tinypxeserver/pxesrv.zip &emsp;(Tiny Pxe server download link) 
 
 https://www.youtube.com/watch?v=o8wOb6KdzoQ&t=50s
 
@@ -41,7 +42,15 @@ DLC boot sofware also contains Tiny PXE server only
 
 https://drive.usercontent.google.com/download?id=1IgCT7OKMuDCCdhSUAmtDirlPeBaIisSS&export=download&authuser=0&confirm=t&uuid=ea78671f-fe55-4129-b653-0cedecb60d3b&at=AGN2oQ26cwJPvWgCwJTcrp3Tn4Ie%3A1774915194476
  
+iVentoy PXE server 
 
-iVentoy PXE server, ,these softwares didnt work for me. If anyone wants to try it , they can check youtube tutorials
+https://github.com/ventoy/PXE/releases
 
+u can also use AOMEI PXE server old version which can be dowblaoded from this respoitory or from below download link
+
+https://aomei-pxe-boot-free.software.informer.com/1.5/
+
+if AOMEI pxe server says that ports 67,69 ports are occupied, use the below link to solve the problem
+
+https://www.ubackup.com/help/pxe-port.html
 
