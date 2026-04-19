@@ -48,3 +48,10 @@ iVentoy PXE server
 
 https://github.com/ventoy/PXE/releases
 
+u can also use AOMEI PXE server old version which can be dowblaoded from this respoitory or from below download link
+
+https://aomei-pxe-boot-free.software.informer.com/1.5/
+
+if AOMEI pxe server says that ports 67,69 ports are occupied, use the below link to solve the problem
+https://www.ubackup.com/help/pxe-port.html
+
